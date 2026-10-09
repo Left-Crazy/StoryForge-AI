@@ -18,6 +18,10 @@ In the sidebar select Ollama and a locally installed model such as `gemma3:4b`, 
 python -m pip install -r requirements.txt
 streamlit run app.py
 ```
+or 
+```
+python -m streamlit run app.py
+```
 
 ## Tests
 
